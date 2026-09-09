@@ -1,6 +1,6 @@
 # redirect-contract
 
-[![CI](https://github.com/lkdmc/redirect-contract/actions/workflows/ci.yml/badge.svg)](https://github.com/lkdmc/redirect-contract/actions/workflows/ci.yml)
+[![CI](https://github.com/TUDelft-MUDE/redirect-contract/actions/workflows/ci.yml/badge.svg)](https://github.com/TUDelft-MUDE/redirect-contract/actions/workflows/ci.yml)
 
 Assert that old URLs still redirect where you intended, as a YAML contract you can run in CI.
 
@@ -216,7 +216,7 @@ check-redirects:
 ## Development
 
 ```bash
-git clone https://github.com/lkdmc/redirect-contract.git
+git clone https://github.com/TUDelft-MUDE/redirect-contract.git
 cd redirect-contract
 pip install -e ".[dev]"
 

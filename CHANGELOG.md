@@ -28,4 +28,4 @@ Initial release.
 - Public Python API: `from redirect_contract import check, record, Config,
   Defaults, Rule, CheckReport, RuleResult, Hop, FailureReason`.
 
-[0.1.0]: https://github.com/lkdmc/redirect-contract/releases/tag/v0.1.0
+[0.1.0]: https://github.com/TUDelft-MUDE/redirect-contract/releases/tag/v0.1.0
